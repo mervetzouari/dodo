@@ -6,9 +6,8 @@
     "build": "vite build",
     "preview": "vite preview --port 4173",
     "test:unit": "vitest --environment jsdom",
-    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
-      "git": "npm run build && git add . && git commit -m",
-"postgit": "git push && git subtree push --prefix dist origin gh-pages"
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+    
   },
   "dependencies": {
     "axios": "^0.27.2",
