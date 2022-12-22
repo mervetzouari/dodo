@@ -1,7 +1,7 @@
 <template>
     <div class="Raisonlire">
         <div class="card" >
-  <img src="src/images/articles-img/Rlire.jpeg" class="card-img-top" alt="...">
+  <img src="/src/images/articles-img/Rlire.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">7 BONNES RAISONS DE LIRE UNE HISTOIRE </h5>
     <p class="card-text">Développement de l’imagination, apprentissage du langage, stimulation des sens… Prendre l'habitude de lire un livre à son enfant peut devenir bénéfique pour son développement.</p>

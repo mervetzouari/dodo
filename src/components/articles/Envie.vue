@@ -1,7 +1,7 @@
 <template>
     <div class="Envie">
         <div class="card" >
-  <img src="src/images/articles-img/EnvieLire.jpeg" class="card-img-top" alt="...">
+  <img src="/src/images/articles-img/EnvieLire.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Mon ENFANT N'AIME PAS LIRE! </h5>
     <p class="card-text">Lire enrichit le vocabulaire, améliore l’orthographe, structure la pensée et renforce l’imagination. Or, si les enfants montrent une appétence pour la lecture, ce plaisir décline avec l’âge. </p>

@@ -1,7 +1,7 @@
 <template>
     <div class="Educationlire">
         <div class="card" >
-  <img src="src/images/articles-img/educationLire.jpeg" class="card-img-top" alt="...">
+  <img src="/src/images/articles-img/educationLire.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">REND LES HISTOIRES PLUS INTERESSANTES </h5>
     <p class="card-text">D’après les résultats d’une étude scientifique, les enfants s’identifient davantage aux personnages humains qu’aux personnages d’animaux lorsqu’on leur raconte une histoire. </p>
