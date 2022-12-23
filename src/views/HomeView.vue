@@ -25,9 +25,9 @@ export default {
     data: function () {
         return {
             photos: [
-                "/src/images/home1.webp",
-                "/src/images/home2.webp",
-                "/src/images/home3.webp",
+                "../images/home1.webp",
+                "../images/home2.webp",
+                "../images/home3.webp",
             ],
             changeme: "",
         };
