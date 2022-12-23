@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index.5419eda8.js";const s={name:"Hist-Video",data:function(){return{}}},_={class:"Video"};function a(n,r,c,i,d,p){return t(),o("div",_)}var f=e(s,[["render",a]]);export{f as default};

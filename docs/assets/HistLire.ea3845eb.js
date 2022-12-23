@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./index.5419eda8.js";const s={name:"Hist-Lire",data:function(){return{}}},_={class:"Lire"};function a(n,o,c,i,p,d){return t(),r("div",_)}var f=e(s,[["render",a]]);export{f as default};
