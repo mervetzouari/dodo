@@ -26,7 +26,7 @@ export default {
         return {
             photos: [
                 "/dodo/assets/home1.68f02cf5.webp",
-                "../images/home2.webp",
+                "/dodo/assets/home2.webp",
                 "../images/home3.webp",
             ],
             changeme: "",
