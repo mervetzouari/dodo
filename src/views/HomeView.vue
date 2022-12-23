@@ -25,7 +25,7 @@ export default {
     data: function () {
         return {
             photos: [
-                "../images/home1.webp",
+                "/dodo/assets/home1.68f02cf5.webp",
                 "../images/home2.webp",
                 "../images/home3.webp",
             ],
